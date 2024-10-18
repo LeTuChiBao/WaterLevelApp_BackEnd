@@ -1,0 +1,67 @@
+[
+  {
+    "ward": "Phường Thảo Điền",
+    "district": "Quận 2",
+    "damage_level": 2.5
+  },
+  {
+    "ward": "Phường An Phú",
+    "district": "Quận 2",
+    "damage_level": 2.0
+  },
+  {
+    "ward": "Phường An Lợi Đông",
+    "district": "Quận 2",
+    "damage_level": 2.3
+  },
+  {
+    "ward": "Phường Hiệp Bình Chánh",
+    "district": "Quận Thủ Đức",
+    "damage_level": 1.8
+  },
+  {
+    "ward": "Phường Hiệp Bình Phước",
+    "district": "Quận Thủ Đức",
+    "damage_level": 2.1
+  },
+  {
+    "ward": "Phường Linh Đông",
+    "district": "Quận Thủ Đức",
+    "damage_level": 1.9
+  },
+  {
+    "ward": "Phường Bình An",
+    "district": "Quận 2",
+    "damage_level": 2.4
+  },
+  {
+    "ward": "Phường Bình Khánh",
+    "district": "Quận 2",
+    "damage_level": 2.2
+  },
+  {
+    "ward": "Phường 28",
+    "district": "Quận Bình Thạnh",
+    "damage_level": 2.6
+  },
+  {
+    "ward": "Phường 13",
+    "district": "Quận Bình Thạnh",
+    "damage_level": 2.0
+  },
+  {
+    "ward": "Phường Tân Thuận Đông",
+    "district": "Quận 7",
+    "damage_level": 1.7
+  },
+  {
+    "ward": "Phường Tân Thuận Tây",
+    "district": "Quận 7",
+    "damage_level": 1.9
+  },
+  {
+    "ward": "Phường Cát Lái",
+    "district": "Quận 2",
+    "damage_level": 2.1
+  }
+]
